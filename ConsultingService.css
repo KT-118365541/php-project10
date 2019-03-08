@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-Feb-2019, 17:45:10
+    Author     : kevintobin
+*/
+body {
+  background-color:lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  text-align: center;
+   font-size: 30px;
+}
+ul{
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+ol{
+    font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+form {
+  color: white;
+  text-align: center;
+   font-size: 30px;
+}
+div {
+    text-align: center;
+}
+
+ul{
+    text-align:center;
+}
+li{
+    text-align:center;
+}
